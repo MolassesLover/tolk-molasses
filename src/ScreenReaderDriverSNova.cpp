@@ -6,6 +6,7 @@
  *  License:        LGPLv3
  */
 
+#include <wchar.h>
 #include "ScreenReaderDriverSNova.h"
 
 #define DOLACCESS_NONE 0

@@ -6,6 +6,7 @@
  *  License:        LGPLv3
  */
 
+#include <initguid.h>
 #include "ScreenReaderDriverSAPI.h"
 
 ScreenReaderDriverSAPI::ScreenReaderDriverSAPI() :
